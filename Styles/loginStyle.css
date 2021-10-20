@@ -22,7 +22,7 @@ a.links{
   }
   h1{
     font-size: 48px;
-    color: #066a75;
+    color: #0d3073;
     padding: 2px 0 10px 0;
     font-family: Arial,sans-serif;
     font-weight: bold;
@@ -47,7 +47,7 @@ a.links{
   }
    
   label{
-    color: #405c60;
+    color: #0d3073;
     position: relative;
   }
   /* placeholder */
@@ -86,7 +86,7 @@ a.links{
   input[type="submit"]{
     width: 100%!important;
     cursor: pointer;  
-    background: rgb(61, 157, 179);
+    background: #0d3073;
     padding: 8px 5px;
     color: #fff;
     font-size: 20px;  
@@ -102,7 +102,7 @@ a.links{
    
   /*estilo do botão submit no hover */
   input[type="submit"]:hover{
-    background: #4ab3c6;
+    background: #0d3073;
   }
   .link{
     position: absolute;
@@ -124,7 +124,7 @@ a.links{
     font-weight: bold;
     background: #f7f8f1;
     padding: 6px;
-    color: rgb(29, 162, 193);
+    color: #0d3073;
     margin-left: 10px;
     border: 1px solid #cbd518;
    
@@ -136,9 +136,9 @@ a.links{
   }
    
   .link a:hover {
-    color: #39bfd7;
+    color: #0d3073;
     background: #f7f7f7;
-    border: 1px solid #4ab3c6;
+    border: 1px solid #0d3073;
   }
   #cadastro, 
 #login{
@@ -148,7 +148,7 @@ a.links{
   padding: 18px 6% 60px 6%;
   margin: 0 0 35px 0;
   background: #f7f7f7;
-  border: 1px solid rgba(147, 184, 189,0.8);
+  border: 1px solid #0d3073;
    
   -webkit-box-shadow: 5px;
   border-radius: 5px;
